@@ -2,7 +2,9 @@
 
 # dependencies
 /node_modules
+/Design
 /.pnp
+/.idea
 .pnp.js
 
 # testing
